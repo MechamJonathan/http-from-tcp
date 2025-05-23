@@ -40,5 +40,4 @@ func main() {
 
 		fmt.Printf("Message sent: %s", message)
 	}
-
 }
