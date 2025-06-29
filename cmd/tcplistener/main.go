@@ -38,6 +38,7 @@ func main() {
 		fmt.Println("Headers:")
 		for key, value := range req.Headers {
 			fmt.Printf("- %s: %s\n", key, value)
+
 		}
 	}
 }
